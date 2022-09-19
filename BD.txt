@@ -1,0 +1,14 @@
+Nome:
+Sobrenome:
+CPF:
+Endereço:
+Email:
+Senha:
+
+
+filmes: 
+salas:
+poltronas:
+horarios:
+
+formas de pagamentos
